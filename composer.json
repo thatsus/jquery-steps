@@ -1,5 +1,5 @@
 {
-    "name": "thatsus/jquery-steps.git",
+    "name": "https://github.com/thatsus/jquery-steps.git",
     "repositories": [
         {
             "type": "vcs",
