@@ -3,7 +3,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": “git@github.com:thatsus/jquery-steps.git"
+            "url": "git@github.com:thatsus/jquery-steps.git"
         }
     ]
 }
