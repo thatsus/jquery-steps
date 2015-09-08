@@ -1,0 +1,9 @@
+{
+    "name": “https://github.com/thatsus/jquery-steps.git",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": “git@github.com:thatsus/jquery-steps.git"
+        }
+    ]
+}
